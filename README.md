@@ -1,3 +1,4 @@
+![blackjack](https://user-images.githubusercontent.com/44240533/222984413-d510c982-f688-44c2-967c-a497b1f6e439.svg)
 # Play Your Cards!
 
 Welcome to Play Your Cards! on Exercism's Java Track.
